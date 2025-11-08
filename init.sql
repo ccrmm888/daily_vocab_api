@@ -23,5 +23,6 @@ INSERT INTO words (word, definition, difficulty_level) VALUES
 ('ambitious', 'Having a strong desire to succeed', 'Intermediate'),
 ('perseverance', 'Continued effort despite difficulties', 'Advanced'),
 ('library', 'A place where books are kept for reading', 'Beginner'),
-('collaborate', 'To work together with others', 'Intermediate');
-
+('collaborate', 'To work together with others', 'Intermediate'),
+('courage', 'The ability to do something frightening', 'Intermediate'),
+('serendipity', 'Finding something good without looking for it', 'Advanced');
